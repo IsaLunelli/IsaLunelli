@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @IsaLunelli
 - 👀 I’m interested in phisics and my girlfriend
-- 🌱 I’m currently learning phisics for hobby and high school
-- 💞️ I’m looking to collaborate on tecnic in programs
-- 📫 How to reach me in my email address isa.lunellidossantos@gmail.com
-- 😄 Pronouns: she/her
+- 👾 I’m currently learning phisics for hobby and high school
+- 💻 I’m looking to collaborate on tecnic in programs
+- 📫 Reach me in my email address isa.lunellidossantos@gmail.com
+- 🌖 Pronouns: she/her
 - ⚡ Fun fact: i'm vegetarian 
 
 <!---
